@@ -1,21 +1,8 @@
-## Project Title
-
-`Asynchronous Data Processing with Redash, OpenAI, and Celery`
-
-## README.md Content
-
-```markdown
-# Asynchronous Data Processing with Redash, OpenAI, and Celery
+## Asynchronous Data Processing with Redash, OpenAI, and Celery
 
 This project serves as a tutorial for implementing asynchronous data processing techniques in the context of Redash dashboards, utilizing OpenAI's API for natural language processing, and managing background tasks with Celery.
 
 ## Project Structure
-```
-
-├── README.md # This file
-├── celery_app.py # Celery app setup and tasks
-├── config.py # Configuration settings
-└── tutorial.ipynb # Jupyter notebook with the tutorial
 
 ````
 
